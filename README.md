@@ -23,27 +23,9 @@ This project aims to predict customer churn using historical purchase behavior a
 - Model evaluation using accuracy, precision, recall
 - Power BI dashboard for interactive insights
 
-## 📁 Project Structure
-
-- `data/`: Contains the dataset used for training
-- `notebooks/`: Jupyter notebook for end-to-end analysis
-- `src/`: Modular Python scripts for data preprocessing, training, and inference
-- `dashboards/`: Power BI dashboard file
-- `requirements.txt`: Python dependencies
-
 ## 🚀 Results
 
 - Achieved 87% accuracy using XGBoost model
 - Identified top features influencing customer churn
 - Built an interactive Power BI dashboard to guide loyalty campaigns
 
-## 🔧 How to Run
-
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook or use scripts in `src/`
-4. Load the Power BI file (`.pbix`) for visualization
-
-## 📜 License
-
-This project is licensed under the MIT License.
